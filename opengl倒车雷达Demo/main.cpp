@@ -56,7 +56,7 @@ float matRoateRight[4][4] = { { cos(b), -sin(b), 0, 0 },
 { sin(b), cos(b), 0, 0 },
 { 0, 0, 1, 0 },
 { 0, 0, 0, 1 }
-};
+};;;;;;
 GLfloat verticesTex[32] =
 {
 	-1.0f, -1.0f, 0.0f, 0.0f, 0.0f, 0.0f, 1.0f, 1.0f,  // 0
